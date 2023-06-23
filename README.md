@@ -1,5 +1,4 @@
 # Heart-Disease-Prediction
-
 Solve a Classification Problem using different Machine Learning Algorithms (KNN, SVM, DT, Categorical Naive Bayes, Logistic Regression) in Python with GUI.
 
 
